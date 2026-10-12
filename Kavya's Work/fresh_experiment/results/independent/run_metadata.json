@@ -1,0 +1,30 @@
+{
+  "Python": "3.12.10",
+  "numpy": "2.4.6",
+  "pandas": "3.0.3",
+  "scipy": "1.15.3",
+  "sklearn": "1.8.0",
+  "evaluation": [
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ],
+  "inner_folds": 5,
+  "seed": 42,
+  "training_start": {
+    "M": 2003,
+    "W": 1998
+  },
+  "feature_day_cutoff": 132,
+  "ranking_day_cutoff": 133,
+  "elo_carry": 0.75,
+  "seconds": 34.89114856719971,
+  "standalone_notebook": true
+}

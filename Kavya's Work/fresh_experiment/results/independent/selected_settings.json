@@ -1,0 +1,302 @@
+[
+  {
+    "Gender": "M",
+    "Season": 2015,
+    "C": 0.01,
+    "TreeWeight": 0.25,
+    "InnerBrier": 0.20063331899617132,
+    "InnerGames": 332,
+    "InnerFolds": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014
+    ]
+  },
+  {
+    "Gender": "M",
+    "Season": 2016,
+    "C": 0.01,
+    "TreeWeight": 0.25,
+    "InnerBrier": 0.1975099959863234,
+    "InnerGames": 335,
+    "InnerFolds": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015
+    ]
+  },
+  {
+    "Gender": "M",
+    "Season": 2017,
+    "C": 0.01,
+    "TreeWeight": 0.25,
+    "InnerBrier": 0.18991039963082326,
+    "InnerGames": 335,
+    "InnerFolds": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ]
+  },
+  {
+    "Gender": "M",
+    "Season": 2018,
+    "C": 10.0,
+    "TreeWeight": 0.5,
+    "InnerBrier": 0.18558422261978488,
+    "InnerGames": 335,
+    "InnerFolds": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ]
+  },
+  {
+    "Gender": "M",
+    "Season": 2019,
+    "C": 10.0,
+    "TreeWeight": 0.25,
+    "InnerBrier": 0.18345176628487603,
+    "InnerGames": 335,
+    "InnerFolds": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018
+    ]
+  },
+  {
+    "Gender": "M",
+    "Season": 2021,
+    "C": 10.0,
+    "TreeWeight": 0.5,
+    "InnerBrier": 0.1747179711102824,
+    "InnerGames": 335,
+    "InnerFolds": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ]
+  },
+  {
+    "Gender": "M",
+    "Season": 2022,
+    "C": 10.0,
+    "TreeWeight": 0.75,
+    "InnerBrier": 0.1814328945074227,
+    "InnerGames": 334,
+    "InnerFolds": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ]
+  },
+  {
+    "Gender": "M",
+    "Season": 2023,
+    "C": 10.0,
+    "TreeWeight": 0.75,
+    "InnerBrier": 0.19138558639692801,
+    "InnerGames": 334,
+    "InnerFolds": [
+      2017,
+      2018,
+      2019,
+      2021,
+      2022
+    ]
+  },
+  {
+    "Gender": "M",
+    "Season": 2024,
+    "C": 0.01,
+    "TreeWeight": 0.5,
+    "InnerBrier": 0.2011067248973885,
+    "InnerGames": 334,
+    "InnerFolds": [
+      2018,
+      2019,
+      2021,
+      2022,
+      2023
+    ]
+  },
+  {
+    "Gender": "M",
+    "Season": 2025,
+    "C": 0.01,
+    "TreeWeight": 0.5,
+    "InnerBrier": 0.19917392941661252,
+    "InnerGames": 334,
+    "InnerFolds": [
+      2019,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  },
+  {
+    "Gender": "W",
+    "Season": 2015,
+    "C": 10.0,
+    "TreeWeight": 0.0,
+    "InnerBrier": 0.13190296845858893,
+    "InnerGames": 315,
+    "InnerFolds": [
+      2010,
+      2011,
+      2012,
+      2013,
+      2014
+    ]
+  },
+  {
+    "Gender": "W",
+    "Season": 2016,
+    "C": 1.0,
+    "TreeWeight": 0.0,
+    "InnerBrier": 0.12550124237714388,
+    "InnerGames": 315,
+    "InnerFolds": [
+      2011,
+      2012,
+      2013,
+      2014,
+      2015
+    ]
+  },
+  {
+    "Gender": "W",
+    "Season": 2017,
+    "C": 0.1,
+    "TreeWeight": 0.25,
+    "InnerBrier": 0.1323585062401754,
+    "InnerGames": 315,
+    "InnerFolds": [
+      2012,
+      2013,
+      2014,
+      2015,
+      2016
+    ]
+  },
+  {
+    "Gender": "W",
+    "Season": 2018,
+    "C": 0.1,
+    "TreeWeight": 0.5,
+    "InnerBrier": 0.1356867660838655,
+    "InnerGames": 315,
+    "InnerFolds": [
+      2013,
+      2014,
+      2015,
+      2016,
+      2017
+    ]
+  },
+  {
+    "Gender": "W",
+    "Season": 2019,
+    "C": 0.1,
+    "TreeWeight": 0.25,
+    "InnerBrier": 0.136155431622055,
+    "InnerGames": 315,
+    "InnerFolds": [
+      2014,
+      2015,
+      2016,
+      2017,
+      2018
+    ]
+  },
+  {
+    "Gender": "W",
+    "Season": 2021,
+    "C": 0.1,
+    "TreeWeight": 0.0,
+    "InnerBrier": 0.13464102511073658,
+    "InnerGames": 315,
+    "InnerFolds": [
+      2015,
+      2016,
+      2017,
+      2018,
+      2019
+    ]
+  },
+  {
+    "Gender": "W",
+    "Season": 2022,
+    "C": 0.1,
+    "TreeWeight": 0.0,
+    "InnerBrier": 0.14443474036137463,
+    "InnerGames": 315,
+    "InnerFolds": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2021
+    ]
+  },
+  {
+    "Gender": "W",
+    "Season": 2023,
+    "C": 0.1,
+    "TreeWeight": 0.0,
+    "InnerBrier": 0.14332568498582385,
+    "InnerGames": 319,
+    "InnerFolds": [
+      2017,
+      2018,
+      2019,
+      2021,
+      2022
+    ]
+  },
+  {
+    "Gender": "W",
+    "Season": 2024,
+    "C": 0.01,
+    "TreeWeight": 0.0,
+    "InnerBrier": 0.1512004606013608,
+    "InnerGames": 323,
+    "InnerFolds": [
+      2018,
+      2019,
+      2021,
+      2022,
+      2023
+    ]
+  },
+  {
+    "Gender": "W",
+    "Season": 2025,
+    "C": 0.1,
+    "TreeWeight": 0.0,
+    "InnerBrier": 0.1451318868073285,
+    "InnerGames": 327,
+    "InnerFolds": [
+      2019,
+      2021,
+      2022,
+      2023,
+      2024
+    ]
+  }
+]

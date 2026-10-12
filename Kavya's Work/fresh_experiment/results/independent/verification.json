@@ -1,0 +1,13 @@
+{
+  "brier_recomputed": true,
+  "one_row_per_game_model": true,
+  "inner_folds_precede_evaluation": true,
+  "M_training_start": 2003,
+  "W_training_start": 1998,
+  "stage1_rows": 519144,
+  "stage1_fallback_05": 0,
+  "stage2_rows": 132133,
+  "stage2_fallback_05": 0,
+  "M_symmetry": true,
+  "W_symmetry": true
+}
